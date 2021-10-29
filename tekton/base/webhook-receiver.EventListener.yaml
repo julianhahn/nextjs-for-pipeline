@@ -27,7 +27,7 @@ spec:
         name: nextjs
       params:
       - name: app-name
-        value: nest-js-app
+        value: next-js-app
       - name: source-repo
         value: "https://github.com/julianhahn/nextjs-for-pipeline"
       - name: image-repo
